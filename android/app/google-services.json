@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957500867742",
+    "project_id": "taskmanage-fc342",
+    "storage_bucket": "taskmanage-fc342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957500867742:android:e8887149c10e830a28278f",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957500867742-7s9he5vndf33gvq27p2ei1l6cr7l2n5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG87mPwbOqkSfBMr0OwKgygCpEgwa0XW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957500867742-7s9he5vndf33gvq27p2ei1l6cr7l2n5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
